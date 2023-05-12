@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Rock-Paper-Scissors</string>
+    <string name="btn_rock">Rock</string>
+    <string name="btn_paper">Paper</string>
+    <string name="btn_scissors">Scissors</string>
+    <string name="tv_cpu">CPU</string>
+    <string name="tv_player">Player</string>
+    <string name="tv_score_player">0</string>
+    <string name="tv_score_cpu">0</string>
+    <string name="tv_message">Message</string>
+
+    <string name="title_activity_settings">Game Settings</string>
+    <!-- Save Preferences -->
+
+    <string name="save_header">Save Options</string>
+    <string name="save_title">Save values</string>
+    <string name="save_summary_on">Saving data
+    </string>
+    <string name="save_summary_off">Not saving data</string>
+</resources>
